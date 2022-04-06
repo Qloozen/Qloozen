@@ -1,10 +1,11 @@
-# 👋  Hi there My name is Qiang Loozen
+# 👋  Hi there my name is Qiang Loozen
+
 
 # :book: About Me
 * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
 * :computer: Intrested in full-stack development.
 
-# What I'm up to
+# :page_facing_up: What I'm up to
 
 ### :dart: In the near future I plan to..
 * Learning the basics of Flutter
@@ -15,6 +16,7 @@
 * BRESS TournamentPlanner
 * Financial Manager (personal project)
 
+# :bar_chart: GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qloozen)](https://github.com/qloozen/github-readme-stats)
 
 # :speech_balloon: How to reach me
