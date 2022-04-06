@@ -20,6 +20,4 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qloozen)](https://github.com/qloozen/github-readme-stats)
 
 # :speech_balloon: How to reach me
-[1.1]: https://github.com/Qloozen/Qloozen/blob/master/LinkedIn.png
-[1]: https://www.linkedin.com/in/qiangloozen/
-
+[![](https://github.com/Qloozen/Qloozen/blob/master/LinkedIn.png)](https://www.linkedin.com/in/qiangloozen/)
