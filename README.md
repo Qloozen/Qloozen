@@ -1,8 +1,8 @@
 # 👋  Hi there my name is Qiang Loozen <br />
 
 ## :book: About Me
-    * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
-    * :computer: Intrested in full-stack development. <br />
+   * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
+   * :computer: Intrested in full-stack development. <br />
 
 ## :page_facing_up: What I'm up to
 
