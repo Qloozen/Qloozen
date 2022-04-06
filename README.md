@@ -18,9 +18,11 @@
     * Financial Manager (personal project) 
 
 <br />
+
 ## :bar_chart: GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qloozen)](https://github.com/qloozen/github-readme-stats) 
 
 <br />
+
 ## :speech_balloon: How to reach me
 <a href="https://www.linkedin.com/in/qiangloozen/"><img src="https://github.com/Qloozen/Qloozen/blob/master/LinkedIn.png" height="36px" width="36px"></a>
