@@ -7,8 +7,8 @@
 ## :page_facing_up: What I'm up to
 
   ### :dart: In the near future I plan to..
-    * Learning the basics of Flutter
-    * Learning the basics of Docker
+    * Learning about Flutter
+    * Learning about Docker
     * Creating a personal website
 
   ### :pencil2: Currently working on..
