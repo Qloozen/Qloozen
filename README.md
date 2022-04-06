@@ -1,6 +1,5 @@
 # 👋  Hi there my name is Qiang Loozen 
 <br />
-<br />
 
 ## :book: About Me
    * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
