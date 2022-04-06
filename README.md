@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋  Hi there My name is Qiang Loozen
 
-<!--
-**Qloozen/Qloozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# :book: About Me
+* :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
+* :computer: Intrested in full-stack development.
 
-Here are some ideas to get you started:
+# What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :dart: In the near future I plan to..
+* Learning the basics of Flutter
+* Learning the basics of Docker
+* Creating a personal website
+
+### :pencil2: Currently working on..
+* BRESS TournamentPlanner
+* Financial Manager (personal project)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=qloozen)](https://github.com/qloozen/github-readme-stats)
+
+# :speech_balloon: How to reach me
+[1]: https://www.linkedin.com/in/qiangloozen/
+
