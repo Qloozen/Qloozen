@@ -21,6 +21,7 @@
 
 ## :bar_chart: GitHub Stats
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=qloozen)](https://github.com/qloozen/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qloozen)](https://github.com/qloozen/github-readme-stats)
 
 <br />
 
