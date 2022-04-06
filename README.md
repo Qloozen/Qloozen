@@ -2,7 +2,7 @@
 
 ## :book: About Me
    * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
-   * :computer: Intrested in full-stack development. <br />
+   * :computer: Interested in full-stack development. <br />
 
 ## :page_facing_up: What I'm up to
 
