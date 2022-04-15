@@ -15,6 +15,7 @@
 
   ### :pencil2: Currently working on..
     * BRESS TournamentPlanner
+    * Learning React Native
     * Financial Manager (personal project) 
 
 <br />
