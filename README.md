@@ -14,6 +14,7 @@
     * Creating a personal website in React
 
   ### :pencil2: Currently working on..
+    * Learning Python with Advent of Code
     * BRESS TournamentPlanner
     * Learning React Native
 
