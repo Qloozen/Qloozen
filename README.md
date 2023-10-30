@@ -2,21 +2,21 @@
 <br />
 
 ## :book: About Me
-   * :mortar_board: Second year Software Engineer student at Avans Hogeschool in Breda.
+   * :mortar_board: 4th year Software Engineer student at Avans Hogeschool in Breda.
    * :computer: Interested in Mobile/ front-end development. 
 <br />
 
 ## :page_facing_up: What I'm up to
 
   ### :dart: In the near future I plan to..
-    * Learn more about iOS development
-    * Learn more about Docker
-    * Creating a personal website in React
-
+    * Learn more about Flutter.
+    * Expanding my knowledge in native iOS.
+    
   ### :pencil2: Currently working on..
-    * Learning Python with Advent of Code
-    * BRESS TournamentPlanner
-    * Learning React Native
+    * Minor Artificial Intelligence
+    * RacePredictor (NextJS/ iOS)
+    * Learning Flutter
+    * ProRep iOS
 
 <br />
 
