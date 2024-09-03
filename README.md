@@ -10,14 +10,11 @@
 
   ### :dart: In the near future I plan to..
     * Learn more about Flutter.
-    * Expanding my knowledge in native iOS.
+    * Expanding my knowledge in web development
     
   ### :pencil2: Currently working on..
-    * Minor Artificial Intelligence
-    * RacePredictor (NextJS/ iOS)
-    * Learning Flutter
-    * ProRep iOS
-
+    * RacePredictor redesign in NextJs
+    * Portfolio redesign
 <br />
 
 ## :bar_chart: GitHub Stats
